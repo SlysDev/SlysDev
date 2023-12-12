@@ -1,16 +1,13 @@
 ### Hi there 👋
 
-<!--
-**SlysDev/SlysDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Jeremy, a _mobile app developer_ working in Flutter.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-   🔭 I’m currently working on [Habitur](https://github.com/SlysDev/habitur), a habit
+    building app driven by social accountability.
+-   🌱 I’m currently learning **Flutter, and React**
+-   🤔 I’m looking for help with **project organization, and SRP within flutter**
+-   💬 Ask me about mobile app development, psychology, and productivity - those are my
+    jams!
+-   📫 How to reach me: through [email](mailto:slysdeveloper@gmail.com)
+-   ⚡ Fun fact: I eat with my knife/fork swapped - the traditional orientation makes no
+    sense, if you really think about it. 😉
